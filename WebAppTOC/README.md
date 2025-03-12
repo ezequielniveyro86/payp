@@ -156,11 +156,3 @@ dotnet ef migrations script -o script.sql
 La API incluye documentación interactiva mediante Swagger/OpenAPI, accesible en:
 
 - `/swagger` cuando la aplicación está en ejecución
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - consulta el archivo LICENSE para más detalles.
-
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Por favor, abre un Issue o Pull Request para sugerencias o mejoras. 
