@@ -27,4 +27,4 @@ namespace WebAppTOC.Models
         // Propiedad de navegación para la relación con Transaction
         public virtual ICollection<Transaction>? Transactions { get; set; }
     }
-} 
+}

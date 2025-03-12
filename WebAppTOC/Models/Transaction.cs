@@ -27,4 +27,4 @@ namespace WebAppTOC.Models
         [ForeignKey("WalletId")]
         public virtual Wallet? Wallet { get; set; }
     }
-} 
+}
